@@ -1,0 +1,9 @@
+st = [[1, 2],[3, 4, ,5],[6, 7, 8 ,9 ]]
+def Exact(st):
+    return list (list(zip(*1st))[0])
+    
+st = [[1, 2, ],[3, 4, 5],[6, 7, 8, 9, ]]
+def Extract(st):
+    rturn list(list(zip(*st))[0])
+    
+    
